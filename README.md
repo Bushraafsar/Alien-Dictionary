@@ -1,7 +1,8 @@
-# Alien-Dictionary
+# Persistent Dictionary for Alien Civilization!
 ## English & Alien Language Translator:
 ## **Description**
-##** 1. Translate word in English Language **
-##** 2. Add new word in "ENGLISH DICTIONARY"**
-##** 3. Translate word in Alien Language**
-##** 4. Add new word in "ALIEN DICTIONARY"**
++ Translate word in English Language 
++ Add new word in "ENGLISH DICTIONARY" and display dictionary
++ Translate word in Alien Language
++ Add new word in "ALIEN DICTIONARY" and display dictionary
++ Exit menu
