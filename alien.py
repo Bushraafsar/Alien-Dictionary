@@ -42,7 +42,7 @@ while True:
     print("Enter 2 if you wanna add new word in english dictionary!")
     print("Enter 3 if you wanna know the meaning of word in alien language:")
     print("Enter 4 if you wanna add new word in alien dictionary!")
-    print("Enter 5 to exist!")
+    print("Enter 5 to exit!")
     choice = int(input("Enter your choice:"))
     if choice == 1:  
         alien_input = input("Enter the word you wanna change in english language:")
